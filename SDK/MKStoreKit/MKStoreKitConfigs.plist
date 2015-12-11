@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Consumables</key>
+	<dict>
+		<key>com.quantum.aftercutfree.100coin</key>
+		<dict>
+			<key>Count</key>
+			<integer>100</integer>
+			<key>Name</key>
+			<string>Buy 100 Coin</string>
+		</dict>
+		<key>com.quantum.aftercutfree.500coin</key>
+		<dict>
+			<key>Count</key>
+			<integer>500</integer>
+			<key>Name</key>
+			<string>Buy 500 Coin</string>
+		</dict>
+	</dict>
+	<key>Non-Consumables</key>
+	<array>
+		<string>com.quantum.aftercutfree.unlimitedcoin</string>
+	</array>
+	<key>Subscriptions</key>
+	<dict/>
+</dict>
+</plist>
